@@ -1,3 +1,5 @@
+NON Maintained fork of simlist's pyluach
+
 pyluach
 =======
 .. image:: https://readthedocs.org/projects/pyluach/badge/?version=stable
